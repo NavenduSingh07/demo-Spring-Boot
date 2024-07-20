@@ -24,6 +24,3 @@ public class DemoApplication {
 
 
 // .\mvnw.cmd spring-boot:run
-
-
-
